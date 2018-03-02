@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evans@coworking.com" resolutions="1x" timestamp="1519938752106">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evans@coworking.com" resolutions="1x" timestamp="1520030340904">
   <folder name="css">
     <file name="site_global.css" crc="4012666305"/>
-    <file name="master_a-master.css" crc="449945464" ref="about-us:index:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="355964881" ref="about-us:index:contact"/>
-    <file name="about-us.css" crc="479724685" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="4106780356" ref="about-us"/>
-    <file name="index.css" crc="3930707524" ref="index"/>
-    <file name="nomq_index.css" crc="178262175" ref="index"/>
-    <file name="contact.css" crc="257597918" ref="contact"/>
-    <file name="nomq_contact.css" crc="4106780356" ref="contact"/>
+    <file name="master_a-master.css" crc="3819848071" ref="index:about-us:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="355964881" ref="index:about-us:contact"/>
+    <file name="index.css" crc="4088999877" ref="index"/>
+    <file name="nomq_index.css" crc="107365224" ref="index"/>
+    <file name="about-us.css" crc="4007066792" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="4248484504" ref="about-us"/>
+    <file name="contact.css" crc="44628271" ref="contact"/>
+    <file name="nomq_contact.css" crc="521754856" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:contact"/>
@@ -31,7 +31,7 @@
     <file name="require.js" crc="4157109226" ref="index:about-us:contact"/>
   </folder>
   <folder name="images">
-    <file name="breather-176228.jpg" crc="188430537" seo="true" ref="index">
+    <file name="slider-01.jpg" crc="186866067" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -39,14 +39,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:about-us:contact"/>
-    <file name="breather-187939.jpg" crc="434459792" seo="true" ref="index">
+    <file name="slider-02.jpg" crc="292610445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="freddie-marriage-264214.jpg" crc="4273057641" seo="true" ref="index">
+    <file name="slider-03.jpg" crc="3929687767" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -111,7 +111,7 @@
     <file name="ham-menu.svg" crc="4194306869" ref="index"/>
     <file name="ham-menu_poster_u3988.png" crc="4051220144" ref="index"/>
   </folder>
-  <file name="index.html" crc="121336986" seo="true" mt="1519938739760" redirect="true"/>
-  <file name="about-us.html" crc="3982334194" seo="true" mt="1519938739760" redirect="true"/>
-  <file name="contact.html" crc="175041704" seo="true" mt="1519938739760" redirect="true"/>
+  <file name="index.html" crc="3954204074" seo="true" mt="1520030323277" redirect="true"/>
+  <file name="about-us.html" crc="496744765" seo="true" mt="1520030323277" redirect="true"/>
+  <file name="contact.html" crc="466328031" seo="true" mt="1520030323277" redirect="true"/>
 </manifest>
