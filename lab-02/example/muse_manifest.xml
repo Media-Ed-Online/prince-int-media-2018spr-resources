@@ -1,7 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evans@cafe.com" resolutions="1x" timestamp="1520228527873">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evans@cafe.com" resolutions="1x" timestamp="1520228893000">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="299828786" ref="index"/>
+    <file name="index.css" crc="246032562" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="devious.woff" crc="107506444"/>
+    <file name="devious.eot" crc="4163456768"/>
+    <file name="devious.svg" crc="435181373"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,7 +25,6 @@
       <caption webpage="index" alt="An SVG image of a girl with coffee."/>
     </file>
     <file name="pasted svg 562868x473_poster_.png" crc="4278427923" ref="index"/>
-    <file name="u257-4.png" crc="3897175292" ref="index"/>
     <file name="pasted-svg-210999x46.svg" crc="234728043" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -46,5 +50,5 @@
     </file>
     <file name="pasted svg 73031x18_poster_.png" crc="4027716967" ref="index"/>
   </folder>
-  <file name="index.html" crc="3878218345" seo="true" mt="1520228419831" redirect="true"/>
+  <file name="index.html" crc="208663496" seo="true" mt="1520228883842" redirect="true"/>
 </manifest>
