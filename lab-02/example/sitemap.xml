@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://evans@cafe.com/index.html</loc>
+    <lastmod>2018-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://evans@cafe.com/images/pasted-svg-562868x473.svg</image:loc>
+      <image:caption>An SVG image of a girl with coffee.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://evans@cafe.com/images/pasted-svg-210999x46.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://evans@cafe.com/images/pasted-svg-189073x40.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://evans@cafe.com/images/pasted-svg-26299x245.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://evans@cafe.com/images/pasted-svg-93941x21.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://evans@cafe.com/images/pasted-svg-17763x197.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://evans@cafe.com/images/pasted-svg-73031x18.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
