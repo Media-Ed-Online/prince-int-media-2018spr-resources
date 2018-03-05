@@ -2,7 +2,9 @@
 ## Lab Repository
 
 <h3 id="lab-01"> Lab 1 ("Coworking Site" and Responsive Architecture)</h3>
+
 Submissions:
+
 - _[Example](https://media-ed-online.github.io/prince-int-media-resources/lab-01/example)_
 - Berryman
 - Davis
@@ -14,7 +16,7 @@ Submissions:
 - Ibarra
 - Johnson
 - Jones
-- Keith
+- [Keith](https://media-ed-online.github.io/prince-int-media-resources/lab-01/keith/)
 - LaValley
 - Pirre
 - Ras
@@ -31,7 +33,9 @@ Submissions:
 ---
 
 <h3 id="lab-02"> Lab 2 ("Lisa's Cafe" and Responsive Design)</h3>
+
 Submissions:
+
 - _Example_
 - Berryman
 - Davis
@@ -60,7 +64,9 @@ Submissions:
 ---
 
 <h3 id="lab-02"> Lab 3 (Web Project)</h3>
+
 Submissions:
+
 - _Example_
 - Berryman
 - Davis
