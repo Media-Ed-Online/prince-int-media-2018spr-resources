@@ -7,7 +7,7 @@ Submissions:
 - Davis
 - Groendyke
 - Hansen
-- Harguess
+- [Harguess](https://media-ed-online.github.io/prince-int-media-resources/lab-01/harguess/)
 - Holton
 - Hooks
 - Ibarra
@@ -24,5 +24,5 @@ Submissions:
 - Stipe
 - Waldo
 - Waters
-- West
+- [West](https://media-ed-online.github.io/prince-int-media-resources/lab-01/west/)
 - Wilsey
