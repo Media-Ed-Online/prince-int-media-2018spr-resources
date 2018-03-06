@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evans@cafe.com" resolutions="1x" timestamp="1520231315503">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evans@cafe.com" resolutions="1x" timestamp="1520375195633">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3985598021" ref="index"/>
-    <file name="index.css" crc="4103097137" ref="index"/>
+    <file name="master_a-master.css" crc="4115990284" ref="index"/>
+    <file name="index.css" crc="530377347" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="devious.woff" crc="107506444"/>
@@ -16,6 +16,12 @@
     <file name="museconfig.js" crc="4153641093" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
@@ -70,5 +76,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="496168501" seo="true" mt="1520231297921" redirect="true"/>
+  <file name="index.html" crc="4022708297" seo="true" mt="1520375140984" redirect="true"/>
 </manifest>
