@@ -1,8 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evans@cafe.com" resolutions="1x" timestamp="1520375195633">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evans@cafe.com" resolutions="1x" timestamp="1520381974420">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4115990284" ref="index"/>
-    <file name="index.css" crc="530377347" ref="index"/>
+    <file name="master_a-master.css" crc="38695761" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="295629755" ref="index"/>
+    <file name="nomq_index.css" crc="7605443" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="devious.woff" crc="107506444"/>
@@ -22,6 +24,7 @@
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
@@ -30,51 +33,80 @@
     </file>
     <file name="pasted-svg-562868x473.svg" crc="4252084924" seo="true" ref="index">
       <caption webpage="index" alt="An SVG image of a girl with coffee."/>
+      <caption webpage="index" alt="An SVG image of a girl with coffee."/>
     </file>
     <file name="pasted svg 562868x473_poster_.png" crc="4278427923" ref="index"/>
     <file name="pasted-svg-210999x46.svg" crc="234728043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 210999x46_poster_.png" crc="4258220014" ref="index"/>
     <file name="pasted-svg-189073x40.svg" crc="3889866673" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 189073x40_poster_.png" crc="3927730317" ref="index"/>
     <file name="pasted-svg-26299x245.svg" crc="4206628259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 26299x245_poster_.png" crc="4195045722" ref="index"/>
     <file name="pasted-svg-93941x21.svg" crc="3866654417" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 93941x21_poster_.png" crc="3920081665" ref="index"/>
     <file name="pasted-svg-17763x197.svg" crc="4210725610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 17763x197_poster_.png" crc="531034209" ref="index"/>
     <file name="pasted-svg-73031x18.svg" crc="291498485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 73031x18_poster_.png" crc="4027716967" ref="index"/>
     <file name="pasted-svg-177606x194.svg" crc="3851418244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 177606x194_poster_.png" crc="517376330" ref="index"/>
     <file name="pasted-svg-185423x198.svg" crc="527798297" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 185423x198_poster_.png" crc="233203373" ref="index"/>
     <file name="pasted-svg-186677x226.svg" crc="4242831760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 186677x226_poster_.png" crc="4066864250" ref="index"/>
     <file name="pasted-svg-177608x187.svg" crc="465699772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 177608x187_poster_.png" crc="335505131" ref="index"/>
     <file name="cafe.jpg" crc="75241203" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="background-u94-fr.jpg" crc="218929153" ref="index"/>
+    <file name="cafe-u1237-fr.jpg" crc="4268177304" ref="index"/>
+    <file name="girl-mobile.svg" crc="3955502695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl-mobile_poster_.png" crc="24256189" ref="index"/>
+    <file name="cafe-u1237-fr2.jpg" crc="3765590635" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4022708297" seo="true" mt="1520375140984" redirect="true"/>
+  <file name="index.html" crc="491499825" seo="true" mt="1520381902652" redirect="true"/>
 </manifest>

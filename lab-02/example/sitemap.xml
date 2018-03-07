@@ -39,5 +39,8 @@
     <image:image>
       <image:loc>http://evans@cafe.com/images/pasted-svg-177608x187.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://evans@cafe.com/images/girl-mobile.svg</image:loc>
+    </image:image>
   </url>
 </urlset>
