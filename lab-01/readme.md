@@ -8,7 +8,7 @@ Submissions:
 - Groendyke
 - Hansen
 - [Harguess](https://media-ed-online.github.io/prince-int-media-resources/lab-01/harguess/)
-- Holton
+- [Holton](https://media-ed-online.github.io/prince-int-media-resources/lab-01/holton)
 - Hooks
 - Ibarra
 - Johnson
@@ -18,11 +18,11 @@ Submissions:
 - Pirre
 - Ras
 - Sandefur
-- Smith
-- Snyder
-- Stevens
+- [Smith](https://media-ed-online.github.io/prince-int-media-resources/lab-01/smith)
+- [Snyder](https://media-ed-online.github.io/prince-int-media-resources/lab-01/snyder)
+- [Stevens](https://media-ed-online.github.io/prince-int-media-resources/lab-01/stevens)
 - Stipe
-- Waldo
+- [Waldo](https://media-ed-online.github.io/prince-int-media-resources/lab-01/waldo)
 - Waters
 - [West](https://media-ed-online.github.io/prince-int-media-resources/lab-01/west/)
 - Wilsey
