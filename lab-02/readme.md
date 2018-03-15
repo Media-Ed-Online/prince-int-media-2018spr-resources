@@ -2,7 +2,7 @@
 
 Submissions:
 
-- _Example_
+- _[Example](https://media-ed-online.github.io/prince-int-media-resources/lab-02/example/)_
 - Berryman
 - Davis
 - Groendyke
